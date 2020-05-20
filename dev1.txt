@@ -1,1 +1,6 @@
 创建dev1文件的冲突文件
+
+this is dev1 file
+
+this is update dev1 file
+
